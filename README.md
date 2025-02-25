@@ -1,1 +1,31 @@
-# zipitto
+Zipitto - README Introduction Zipitto is a powerful, easy-to-use compression and extraction tool designed with accessibility in mind, especially for users who rely on screen readers like NVDA, JAWS, or Windows Narrator. It enables blind and visually impaired users to compress multiple files or folders into a ZIP archive, as well as extract files from an existing ZIP archive, all with minimal interaction and clear, simple instructions.
+
+Zipitto offers a straightforward, accessible interface that ensures you can easily zip or unzip files directly from the File Explorer, without needing to understand complex commands or navigate through inaccessible menus. Key Features: • Zip files and folders : Easily compress multiple files or entire folders into a ZIP archive.
+	• Unzip existing ZIP archives : Extract the contents of a ZIP archive to a destination folder.
+	• Accessibility : Fully compatible with screen readers like NVDA, JAWS, and Windows Narrator.
+	• Simple User Interface : Choose between three options: Select File/Folder, Visit Website, and Uninstall the Program.
+	• Website Integration : Direct link to the official Zipitto website for more information.
+	• Uninstall Functionality : Easily uninstall Zipitto by clicking a single button. Installation Pre-requisites: • Operating System : Windows 7 or higher.
+	• Accessibility : Zipitto is designed to be fully accessible with screen readers like NVDA, JAWS, and Windows Narrator. Installation Steps: 1. Download Zipitto :
+	•	Go to the official Zipitto Website or GitHub Repository to download the latest version of Zipitto. 2. Run the Installer :
+	•	Once you have the .exe file, double-click it to start the installation process.
+	•	Follow the prompts to install Zipitto on your system.
+	•	You can choose the installation directory (default is the “Program Files” folder). 3. Launch Zipitto :
+	•	After installation, you can launch Zipitto by searching for it in the Start menu or by double-clicking the desktop shortcut if you created one during the installation process. Features Overview: 1. Select File/Folder :
+	•	This button opens the File Explorer window, where you can select a folder or file to compress or extract. Zipitto will automatically determine whether the selection is a ZIP file (to extract) or a folder/file (to compress).
+	• Compression : If you select a folder or multiple files, Zipitto will automatically create a ZIP archive in the Downloads folder.
+	• Extraction : If you select a ZIP file, Zipitto will extract the contents to a new folder in your Downloads directory. 2. Website :
+	•	Clicking this button opens the official Zipitto website ( https://zipitto.com ) in your default web browser. Here you can find more information about Zipitto, check for updates, and contact the development team. 3. Uninstall :
+	•	This option removes the Zipitto program from your system. Clicking this will delete the .exe file, and a confirmation message will appear to let you know the uninstallation is complete. 4. Accessibility Features :
+	•	Zipitto has been specifically designed to work with screen readers such as NVDA , JAWS , and Windows Narrator . All buttons are labeled clearly, and proper keyboard navigation is in place for users relying on keyboard shortcuts.
+	•	If at any point you press the Spacebar , it will automatically focus on the Select File/Folder button, making it easy to quickly initiate the main function. 5. Error Handling and Messages :
+	•	If you encounter any errors while zipping or unzipping files, Zipitto will provide a clear error message, detailing what went wrong. These messages will be accessible to screen readers, ensuring that all users can easily understand and resolve issues. License Agreement Important Legal Information: By using Zipitto, you agree to the terms of the Zipitto Software License Agreement . This agreement outlines how Zipitto can be used and distributed. Any unauthorized modification, redistribution, or tampering with the software will result in serious legal consequences. License Highlights: • Installation is Free : You are free to install and use Zipitto for personal or professional purposes, as long as you do so with appropriate intent.
+	• No Modification or Redistribution : You may not modify or redistribute the software, either in its original or modified form, except via the official distribution channels: zipitto.com or github.com/playssoc/zipitto .
+	• Severe Legal Consequences : Unauthorized modifications or redistribution of Zipitto will result in extreme legal actions, including financial penalties and criminal prosecution.
+
+For the full Zipitto Software License Agreement , please refer to the LICENSE.txt file included with the software package. Troubleshooting 1. Zipitto Doesn’t Launch or Crashes: •	Ensure your system meets the necessary requirements (Windows 7 or higher).
+	•	Try reinstalling the program.
+	•	Check if your antivirus is blocking the program. Zipitto is safe, but some antivirus programs may mistakenly flag new or unsigned software. 2. Screen Reader Issues: •	If you’re encountering difficulties using a screen reader with Zipitto, make sure your screen reader is updated to the latest version.
+	•	You can also try adjusting the settings for keyboard navigation or focus management. 3. Issues with File Compression/Extraction: •	If Zipitto fails to zip or unzip files, ensure the files you’re working with aren’t in use by another application.
+	•	Check if you have permission to write to the Downloads folder. 4. Uninstallation Problems: •	If you encounter issues uninstalling the program, you can manually delete the Zipitto .exe file from the installation directory and remove any remaining files in the Program Files folder. Contributing We welcome contributions from the community to improve Zipitto! If you’d like to help, please check out our GitHub repository and submit a pull request. Reporting Bugs: If you find any bugs or have suggestions for improvements, please report them by creating an issue in the Issues section on our GitHub page . Disclaimer Zipitto is provided “as is,” without any express or implied warranty. The software author is not responsible for any damages arising from the use of the software. Contact Information If you need further assistance, have any questions, or would like to provide feedback, please contact us through the following channels:
+	• Website : https://zipitto.com • GitHub Repository : https://github.com/playssoc/zipitto 
